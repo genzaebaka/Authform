@@ -107,7 +107,7 @@ const socialAction = (action: string) => {
             px-4
             py-8
             shadow
-            bg-gray-100
+            bg-gray-200
             sm:rounded-lg
             sm:px-10
             ">
@@ -177,9 +177,9 @@ const socialAction = (action: string) => {
                         justify-center 
                         text-center">
                             <span className="
-                            bg-gray-100 
+                            bg-gray-200 
                               px-2
-                             text-gray-500">Or continue with
+                             text-gray-500">Another type
                              </span>
                         </div>
                     </div>
