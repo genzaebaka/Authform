@@ -1,4 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 AuthForm - это форма авторизации, разработанная с использованием технологий TypeScript, React, Prisma и MongoDB. Этот проект предоставляет безопасный и эффективный механизм аутентификации для ваших пользователей.
 
 Основные функциональности:
